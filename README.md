@@ -1,5 +1,4 @@
 # WH-JavaScript
 
-# Kommentar
-
-##### dafuq dood
+### Kommentar
+ 1 Kommmentar is wenn man dies das
